@@ -2,3 +2,9 @@
 //
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
+$container-max-widths: (
+  sm: 480px,  //540px, -60
+  md: 640px,  //720px, -80
+  lg: 860px,  //960px, -100
+  xl: 1024px  //1140px -116
+);
