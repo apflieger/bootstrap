@@ -21,27 +21,27 @@ html {
   width: 100%;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 469px) {
   .container {
-    max-width: 540px;
+    max-width: 469px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 668px) {
   .container {
-    max-width: 720px;
+    max-width: 626px;
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 863px) {
   .container {
-    max-width: 960px;
+    max-width: 835px;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1044px) {
   .container {
-    max-width: 1140px;
+    max-width: 990px;
   }
 }
 
@@ -234,7 +234,7 @@ html {
       order: 12;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 469px) {
   .col-sm {
     -ms-flex-preferred-size: 0;
         flex-basis: 0;
@@ -358,7 +358,7 @@ html {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 668px) {
   .col-md {
     -ms-flex-preferred-size: 0;
         flex-basis: 0;
@@ -482,7 +482,7 @@ html {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 863px) {
   .col-lg {
     -ms-flex-preferred-size: 0;
         flex-basis: 0;
@@ -606,7 +606,7 @@ html {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1044px) {
   .col-xl {
     -ms-flex-preferred-size: 0;
         flex-basis: 0;
@@ -875,7 +875,7 @@ html {
       align-self: stretch !important;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 469px) {
   .flex-sm-row {
     -ms-flex-direction: row !important;
         flex-direction: row !important;
@@ -994,7 +994,7 @@ html {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 668px) {
   .flex-md-row {
     -ms-flex-direction: row !important;
         flex-direction: row !important;
@@ -1113,7 +1113,7 @@ html {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 863px) {
   .flex-lg-row {
     -ms-flex-direction: row !important;
         flex-direction: row !important;
@@ -1232,7 +1232,7 @@ html {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1044px) {
   .flex-xl-row {
     -ms-flex-direction: row !important;
         flex-direction: row !important;
